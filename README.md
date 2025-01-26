@@ -1,19 +1,18 @@
 ## Hi there 👋
 
 
-# Hi, I'm GRISHMA GEDELA
+# Hi,I'm Sk Mohammed Kaif
 
 ## About Me
 
-Hey there! I'm Grishma, a third-year Computer Science & Engineering student at Sir C.R.Reddy Engineering College with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
+Hey there! , I'm Sk Mohammed Kiaf a third-year Computer Science & Engineering student at NBKRIST College with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
 
 ### Skills & Interests:
 
-- **Programming Languages**          : Python, C, C++, HTML, CSS, JavaScript(basic knowledge)
-- **Frameworks/Libraries**           : Bootstrap, Django, NumPy, Pandas, Tkinter
-- **Databases**                      : MySQL, SQLite
-- **Data Structures & Algorithms**   : Structuring Information for efficiency
-- **Developer Tools**                : Git/Github, Google Colab, VS Code, Anaconda
+- **Programming Languages**          : Python, HTML, CSS, JavaScript(basic knowledge)
+- **Frameworks/Libraries**           : Django
+- **Databases**                      : MySQL, MongoDB
+- **Developer Tools**                : Git/Github, Google Colab, VS Code
 - **Academic Coursework**            : Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS
 - **Interests**                      : Problem-Solving, Competitive Programming, Open-Source Contributions, Participating in Hackathons
 
@@ -31,10 +30,10 @@ Features include secure login, menu customization and browsing, secure payments 
 
 ### Connect with Me:
 
-- Email: grishmagedela@gmail.com
-- LinkedIn: https://www.linkedin.com/in/grishma-gedela
+- Email: shaikmohamedkaif77@gmail.com
+- LinkedIn: www.linkedin.com/in/shaik-mohammed-kaif-99775826b
 - YouTube: http://www.youtube.com/@GrishmaEducationalRainbow
-- GitHub: https://github.com/grishma-gedela
+- GitHub: 
 
 ### Feedback Welcome :
 - I'm still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above, and let's connect!
