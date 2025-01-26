@@ -17,7 +17,9 @@ Hey there! , I'm Sk Mohammed Kiaf a third-year Computer Science & Engineering st
 
 ### Projects:
 
-- **Tic-Tac-Toe**: Get the latest tech news in one place! This site curates top stories directly, keeping tech enthusiasts updated without the need to search multiple websites.This site is built using HTML, CSS, and JavaScript for a seamless experience. [Project Link](https://github.com/grishma-gedela/Tech-News.git)
+- **Tic-Tac-Toe**: Developed an interactive Tic Tac Toe game using HTML and CSS, enhancing user engagement and
+ providing a responsive, cross-device compatible experience.Implemented efficient game logic and user interface design,
+ ensuring seamless functionality and high usability.[Project Link]((https://github.com/Kaif-74/TSS22KB1A05G0)]
  
 ### Connect with Me:
 
