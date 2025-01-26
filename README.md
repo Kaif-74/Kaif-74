@@ -28,7 +28,6 @@ Hey there! , I'm Sk Mohammed Kiaf a third-year Computer Science & Engineering st
 
 - Email: shaikmohamedkaif77@gmail.com
 - LinkedIn: www.linkedin.com/in/shaik-mohammed-kaif-99775826b
-- YouTube: http://www.youtube.com/@GrishmaEducationalRainbow
 - GitHub: https://github.com/Kaif-74M
 
 ### Feedback Welcome :
