@@ -19,7 +19,7 @@ Hey there! , I'm Sk Mohammed Kiaf a third-year Computer Science & Engineering st
 
 - **Tic-Tac-Toe**: Developed an interactive Tic Tac Toe game using HTML and CSS, enhancing user engagement and
  providing a responsive, cross-device compatible experience.Implemented efficient game logic and user interface design,
- ensuring seamless functionality and high usability.[Project Link]((https://github.com/Kaif-74/TSS22KB1A05G0)]
+ ensuring seamless functionality and high usability.[Project Link](https://github.com/Kaif-74/TSS22KB1A05G0)
  
 ### Connect with Me:
 
