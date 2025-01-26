@@ -28,7 +28,7 @@ Hey there! , I'm Sk Mohammed Kiaf a third-year Computer Science & Engineering st
 
 - Email: shaikmohamedkaif77@gmail.com
 - LinkedIn: www.linkedin.com/in/shaik-mohammed-kaif-99775826b
-- GitHub: https://github.com/Kaif-74M
+- GitHub: https://github.com/Kaif-74
 
 ### Feedback Welcome :
 - I'm still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above, and let's connect!
